@@ -8,6 +8,6 @@ public class less8 {
         String [] strings = str.split("ne");
         System.out.println(Arrays.toString(strings));
 
-        
+
     }
 }
